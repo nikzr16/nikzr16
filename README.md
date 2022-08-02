@@ -4,7 +4,12 @@
 - 👀 I’m interested in web application development.
 - 🌱 I’m currently learning PHP, Javascript, and advanced CSS. 
 - 💞️ I’m looking to collaborate on any projects related to web development.
-- 📫 You could contact me through https://www.linkedin.com/in/nikzulfaqar/
+- 📫 You could contact me through [LinkedIn](https://www.linkedin.com/in/nikzulfaqar/)
+
+
+
+
+
 
 
 <!---
