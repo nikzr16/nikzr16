@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikzr16
 - 👀 I’m interested in web application development.
-- 🌱 I’m currently learning PHP, Javascript, advanced CSS. 
+- 🌱 I’m currently learning PHP, Javascript, and advanced CSS. 
 - 💞️ I’m looking to collaborate on any projects related to web development.
 
 <!---
