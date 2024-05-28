@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Nik.
 - 👀 I’m interested in web application development.
-- 🌱 I’m currently learning PHP, Javascript, and advanced CSS. 
+- 🌱 I’m currently learning FastAPI & Python. 
 - 💞️ I’m looking to collaborate on any projects related to web development.
 - 📫 You could contact me through [LinkedIn](https://www.linkedin.com/in/nikzulfaqar/)
 
